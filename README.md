@@ -51,6 +51,8 @@ Lixnus: System monitoring, network analysis, file integrity checking and file pe
 <div>
     <img src="https://img.shields.io/badge/-Google_Chronicle-4285F4?&style=for-the-badge&logo=Google%20Cloud&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/Elastic%20Stack%20SIEM-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+
 </div>
 
 ## Certifications
