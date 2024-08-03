@@ -15,7 +15,7 @@ My journey in Python and Cloud has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/alabiolu/SIEM-Implementation/blob/main/README.md">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Netwrok Monitor</a>|
 | Linux                                         | <a href="https://github.com/alabiolu/File-permissions-in-Linux/blob/main/README.md">File Permission Using Linux</a> |
 | Python                                        | <a href="https://github.com/alabiolu/Python-algorithm">Python Alogorithm</a>|
 | Case Management with TheHive                  | SOC Automation Lab|
