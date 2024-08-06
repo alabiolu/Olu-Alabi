@@ -18,8 +18,7 @@ My journey in Python and Cloud has led me to develop a passion for cybersecurity
 | Network Design | <a href="https://github.com/alabiolu/Network-Design/blob/main/README.md">SOHO Network Design</a>|
 | Linux                                         | <a href="https://github.com/alabiolu/File-permissions-in-Linux/blob/main/README.md">File Permission Using Linux</a> |
 | Python                                        | <a href="https://github.com/alabiolu/Python-algorithm">Python Alogorithm</a>|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
 
 ## Tools
 Python: Python scripts to automate repetitive tasks such as network scans, log analysis, and vulnerability assessments.
