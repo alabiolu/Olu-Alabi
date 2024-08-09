@@ -14,10 +14,12 @@ My journey in Python and Cloud has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| EDR - Threat Detection & Response                                     | <a href="https://github.com/alabiolu/Environment-Setup/blob/main/README.md">EDR</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/alabiolu/SIEM-Implementation/blob/main/README.md">Detection Lab</a>|
 | Network Design | <a href="https://github.com/alabiolu/Network-Design/blob/main/README.md">SOHO Network Design</a>|
 | Linux                                         | <a href="https://github.com/alabiolu/File-permissions-in-Linux/blob/main/README.md">File Permission Using Linux</a> |
 | Python                                        | <a href="https://github.com/alabiolu/Python-algorithm">Python Alogorithm</a>|
+
 
 
 ## Tools
